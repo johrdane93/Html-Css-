@@ -3,19 +3,18 @@
   <head>
     <meta charset="utf-8">
     <title>RestaurationTitreWeb</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style-Johrdane.css">
   </head>
   <body>
     <header>
       <h1 class="inlineB" style="posit"
       <h1>Ma 6-T Va Manger</h1>
       <nav class="inlineB">
-        <ul>
-          <li class="inlineB">nos cuistots</li>
-          <li class="inlineB">menu</li>
-          <li class="inlineB">Boissons</li>
-          <li class="inlineB">Contact</li>
-        </ul>
+        <ol>
+          <li class="2"><a href="Ma6tVaMangerP03.php">foodtruck</a></li>
+          <li class="2"><a href="SandWitchpage02.php">SandWitch</a></li>
+          <li class="2"><a href="Ocouscouspage01.php">Ocouscous</a></li>
+        </ol>
       </nav>
       <div id="logo">
         <img src="img/img20.png" alt="logo">
