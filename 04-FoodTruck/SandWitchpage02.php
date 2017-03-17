@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>SandWitch</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style-Lies.css">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
   </head>
   <body>
@@ -32,7 +32,7 @@
             <div class="">
               <a href="Ma6tVaMangerP03.php"><img src="img/smt.png" alt="twitter"></a>
               <a href="SandWitchpage02.php"><img src="img/smf.png" alt="facebook"></a>
-              <a href="Ocouscouspage01.php"><img src="img/smi.png" alt="instagram"></a>
+              <a href="Ocouscouspage04.php"><img src="img/smi.png" alt="instagram"></a>
             </div>
         </article>
       </footer>
